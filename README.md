@@ -1,7 +1,6 @@
 ## Hi, I'm Omer 
 
 🧠​ Computer science student at Nova / GMU<br/>
-​🌌​ I create themed desktop apps to stay consistent<br/>
 ​🎥 I make videos about code and design on [Instagram] ()<br/>
 
 
