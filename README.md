@@ -1,7 +1,7 @@
 ## Hi, I'm Omer 
 
 🧠​ Computer science student at Nova / GMU<br/>
-​🎥 I make videos about code and design on [Instagram] ()<br/>
+​🎥 
 
 
 # 💻 Tech Stack:
